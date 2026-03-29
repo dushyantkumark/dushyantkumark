@@ -1,14 +1,144 @@
-# 💫 About Me:
-Hi 👋, I'm Dushyant Kumar<br>🚀 DevOps & Cloud Engineer | AWS | Kubernetes | CI/CD | DevSecOps<br>📍 Noida, India<br><br>👨‍💻 About Me<br>DevOps & Cloud Engineer with 2+ years of hands-on experience in building, automating, and securing production-grade cloud-native applications on AWS.<br>My core expertise lies in AWS infrastructure, Kubernetes (EKS), CI/CD automation, Terraform (IaC), and DevSecOps practices.<br><br>Alongside my primary DevOps role, I am gaining hands-on exposure to MLOps through learning-driven PoCs focused on model deployment workflows and automation on Kubernetes.<br><br>🔭 Current Focus<br>Managing production Amazon EKS clusters supporting microservices<br>Designing and optimizing CI/CD pipelines using Jenkins, Github Action, GitLab CI & Argo CD<br>Provisioning and managing AWS infrastructure with Terraform (IaC)<br>Hands-on learning with MLOps deployments (model packaging & Kubernetes-based serving)<br>🤝 Open to Collaboration<br>DevOps & Cloud automation projects<br>Kubernetes & GitOps-based platform engineering<br>Knowledge sharing and learning-driven MLOps experiments<br>🌱 Currently Learning<br>Advanced Kubernetes internals & networking (Gateway API)<br>DevSecOps security automation and compliance<br>MLOps fundamentals (model lifecycle, deployment, CI/CD for ML)<br>GenAI automation using AWS Bedrock & Lambda<br>💬 Ask Me About<br>AWS ( IAM, VPC, EC2, EKS, ECR, ECS, ALB, RDS, S3, Lambda, Route 53, API Gateway)<br>Docker, Kubernetes, Helm<br>CI/CD pipelines (Jenkins, GitLab CI, Argo CD)<br>Terraform & Infrastructure as Code<br>Entry-level MLOps deployment concepts on Kubernetes<br>⚡ Fun Fact<br>⚙️ I enjoy converting manual infrastructure tasks into fully automated pipelines 🚀<br><br>🛠️ Tech Stack<br>Cloud & DevOps<br>AWS, Docker, Kubernetes, Helm, Terraform<br><br>CI/CD & GitOps<br>Jenkins, GitLab CI, GitHub Actions, AWS CodePipeline, Argo CD<br><br>Security & Monitoring<br>SonarQube, Trivy, GuardDuty, CloudTrail, Prometheus, Grafana<br><br>MLOps (Hands-On Learning)<br>ML model containerization, Kubernetes-based deployment, CI/CD for ML workflows<br><br>Scripting & Tools<br>Python, Bash, Ansible, Git
+<div align="center">
 
+```
+██████╗ ██╗   ██╗███████╗██╗  ██╗██╗   ██╗ █████╗ ███╗   ██╗████████╗
+██╔══██╗██║   ██║██╔════╝██║  ██║╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝
+██║  ██║██║   ██║███████╗███████║ ╚████╔╝ ███████║██╔██╗ ██║   ██║   
+██║  ██║██║   ██║╚════██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║   ██║   
+██████╔╝╚██████╔╝███████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
+```
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-kumar-dk) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dushyantkumarkblog) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kumardushyant545@gmail.com) 
+### `$ whoami` → DevOps & Cloud Engineer
 
-# 💻 Tech Stack:
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+**AWS · GCP · Kubernetes · CI/CD · DevSecOps · MLOps**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dushyant-kumar-dk)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@dushyantkumarkblog)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kumardushyant545@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Noida,_India-grey?style=flat-square)](https://github.com/dushyantkumark)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dushyantkumark&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> cat about.yaml`
+
+```yaml
+name: Dushyant Kumar
+role: DevOps & Cloud Engineer
+experience: 2+ years
+location: Noida, India
+
+core_expertise:
+  - AWS Infrastructure (EKS, IAM, VPC, EC2, ECR, ECS, ALB, RDS, S3, Lambda, Route53)
+  - GCP Cloud Services
+  - Kubernetes (EKS) — production cluster management
+  - CI/CD Automation — Jenkins, GitHub Actions, GitLab CI, AWS CodePipeline, Argo CD
+  - Infrastructure as Code — Terraform
+  - DevSecOps — SonarQube, Trivy, GuardDuty, CloudTrail
+
+currently_learning:
+  - Advanced Kubernetes internals & Gateway API
+  - DevSecOps security automation & compliance
+  - MLOps fundamentals (model lifecycle, Kubernetes-based deployment)
+  - GenAI automation using AWS Bedrock & Lambda
+
+open_to_collaborate: true
+```
+
+---
+
+## `> ./pipeline --show`
+
+```
+Code Push  ──►  Jenkins / GitHub Actions  ──►  SonarQube + Trivy Scan
+                                                        │
+                                              ┌─────────▼─────────┐
+                                              │  Docker Build      │
+                                              │  ECR / GCR Push    │
+                                              └─────────┬─────────┘
+                                                        │
+                                              ┌─────────▼─────────┐
+                                              │  Argo CD GitOps    │
+                                              │  EKS Deployment    │
+                                              └───────────────────┘
+```
+
+---
+
+## `> cat tech-stack.sh`
+
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+### ⟳ CI/CD & GitOps
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+
+### 🔒 Security & Observability
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Trivy](https://img.shields.io/badge/Trivy-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🤖 MLOps & Scripting
+![mlflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## `> ls ./databases/`
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+---
+
+## `> git log --oneline --what-i-do`
+
+```
+a3f9c21  feat: manage production EKS clusters for microservices workloads
+b12e4d7  feat: design & optimize Jenkins/GHA/GitLab CI + Argo CD pipelines  
+c8a1f03  infra: provision & manage AWS+GCP infrastructure with Terraform IaC
+d45b9e0  sec:  integrate SonarQube, Trivy, GuardDuty into pipeline
+e67c2a8  ops:  set up Prometheus + Grafana observability stack
+f90d1b4  learn: hands-on MLOps — model packaging & Kubernetes-based serving
+g23f5e9  exp:  GenAI automation with AWS Bedrock & Lambda (PoCs)
+```
+
+---
+
+## `> cat collaborate.txt`
+
+> I'm always open to working on:
+> - **DevOps & Cloud automation** projects
+> - **Kubernetes & GitOps**-based platform engineering  
+> - **Knowledge sharing** and learning-driven MLOps experiments
+
+---
+
+<div align="center">
+
+```
+⚙️  I enjoy converting manual infrastructure tasks into fully automated pipelines 🚀
+```
+
+[![](https://visitcount.itsvg.in/api?id=dushyantkumark&icon=6&color=1)](https://visitcount.itsvg.in)
+
+</div>
